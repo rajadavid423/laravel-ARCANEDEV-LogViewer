@@ -1,10 +1,20 @@
 # LogViewer
 This package allows you to manage and keep track of each one of your log files
 
-![LogViewer Dashboard](/public/images/dashboard.png?raw=true)
-![LogViewer Logs](/public/images/logs.png?raw=true)
-![LogViewer View](/public/images/view.png?raw=true)
-![LogViewer Stack](/public/images/stack.png?raw=true)
+<img src="https://drive.google.com/uc?export=view&id=1Rb2AOneTgUzlsmvpFv0w0NU5iAchUoMj">
+<br>
+<br>
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1_R-N-S-pNXmuDGoVWd4o4hdU0M6n62Ph">
+<br>
+<br>
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1PJ5uOuuVgf_kE_ACCRxWx1G9QAxMuT1T">
+<br>
+<br>
+<br>
+<img src="https://drive.google.com/uc?export=view&id=1dpwqV_nyGkkKglONHRuSPbpGzQ8TOh49">
+<br>
 
 ## Features
 
